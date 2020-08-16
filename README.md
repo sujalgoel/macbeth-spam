@@ -8,7 +8,7 @@
 -   Run the file
 -   Quickly open any messenger service within 10 seconds!
 
-### Note
+## Note
 
 -   This script can send `2000 messages`!
 -   You can change the text in `macbeth.txt` to any type of the text you want!
