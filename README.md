@@ -4,8 +4,8 @@
 
 ## Usage
 
--   `pip install pyautogui`
--   Run the file
+-   Run `pip install pyautogui` in your command prompt!
+-   Run the file!
 -   Quickly open any messenger service within 10 seconds!
 
 ## Note
