@@ -10,5 +10,5 @@
 
 ## Note
 
--   This script can send `2000 messages`!
+-   This script can spam `2000 messages`!
 -   You can change the text in `macbeth.txt` to any type of the text you want!
