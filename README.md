@@ -6,7 +6,7 @@
 
 -   `pip install pyautogui`
 -   Run the file
--   Quickly open Whatever!
+-   Quickly open any messenger service within 10 seconds!
 
 ### Note
 
